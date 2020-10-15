@@ -2,3 +2,6 @@ THIS IS FILE 1
 ABOUT TO BE STAFED AND COMMITTED
 
 // THIS IS MORE CHANGES THAT I want to push to GitHub
+
+
+I want to to do some changes
